@@ -1,0 +1,6 @@
+id = "code-runner"
+name = "Code Runner"
+description = "This is a small extenstion to run code from the zed editor directly"
+schema_version = 1
+authors = ["Bhavy Bhatnagar bbhatnagar27@gmail.com"]
+repository = "https://github.com/Rhustish/zedcr"
