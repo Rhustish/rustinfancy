@@ -37,9 +37,3 @@ fn main()-> Result<()> {
     disable_raw_mode()?;
     Ok(())
 }
-
-// fn main() {
-//     std::process::exit(real_main());
-// }
-
-
